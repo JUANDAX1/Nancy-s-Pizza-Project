@@ -1,0 +1,315 @@
+order_id,q_item_per_orders,created_at,delivery,item_price,item_cat,item_name,delivery_address1,delivery_address2,delivery_city,delivery_zipcode
+109,2,"2023-09-10 00:00:00",1,12.00,Pizza,"Pizza margherita reg","Av. Providencia 1234, Providencia, Santiago",,"Santiago de Chile",7500000
+110,1,"2023-09-10 00:00:00",1,16.00,Pizza,"Pizza Diavola (Hot) Reg","Calle San Diego 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+111,1,"2023-09-10 00:00:00",1,12.00,Pizza,"Pizza margherita reg","Av. Apoquindo 9010, Las Condes, Santiago",,"Santiago de Chile",7550000
+111,1,"2023-09-10 00:00:00",1,16.00,Pizza,"Pizza Diavola (Hot) Reg","Av. Apoquindo 9010, Las Condes, Santiago",,"Santiago de Chile",7550000
+112,3,"2023-09-10 00:00:00",0,19.00,Pizza,"Pizza quattro formaggi grande","Calle Nueva York 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+112,5,"2023-09-10 00:00:00",0,5.00,Side,"Palitos de pan","Calle Nueva York 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+112,5,"2023-09-10 00:00:00",0,7.00,Side,"Ensalada CÃ©sar","Calle Nueva York 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+112,1,"2023-09-10 00:00:00",0,6.00,Dessert,"Helado de fresa","Calle Nueva York 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+112,1,"2023-09-10 00:00:00",0,2.00,Drink,"San Pelligrino 33cl","Calle Nueva York 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+113,1,"2023-09-10 00:00:00",1,19.00,Pizza,"Pizza quattro formaggi grande","Calle Brasil 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+113,1,"2023-09-10 00:00:00",1,16.00,Pizza,"Pizza napolitana reg","Calle Brasil 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+113,2,"2023-09-10 00:00:00",1,6.00,Dessert,"Helado de pistacho","Calle Brasil 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+113,1,"2023-09-10 00:00:00",1,6.00,Dessert,"Helado de chocolate","Calle Brasil 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+113,3,"2023-09-10 00:00:00",1,5.00,Dessert,"Brownie de chocolate","Calle Brasil 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+114,1,"2023-09-10 00:00:00",1,16.00,Pizza,"Pizza Diavola (Hot) Reg","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+114,1,"2023-09-10 00:00:00",1,14.00,Pizza,"Pizza Margherita grande","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+114,1,"2023-09-10 00:00:00",1,18.00,Pizza,"Pizza napolitana grande","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+114,1,"2023-09-10 00:00:00",1,7.00,Side,"Alitas de pollo","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+114,1,"2023-09-10 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+114,1,"2023-09-10 00:00:00",1,5.00,Dessert,"Brownie de chocolate","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+114,1,"2023-09-10 00:00:00",1,7.00,Dessert,"pie de banoffee","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+114,1,"2023-09-10 00:00:00",1,6.00,Dessert,"Helado de vainilla","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+114,1,"2023-09-10 00:00:00",1,6.00,Drink,"Coca Cola Regular 1.5l","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+115,2,"2023-09-10 00:00:00",1,12.00,Pizza,"Pizza margherita reg","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+115,4,"2023-09-10 00:00:00",1,16.00,Pizza,"Pizza Diavola (Hot) Reg","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+115,2,"2023-09-10 00:00:00",1,15.00,Pizza,"Pizza parmigiana reg","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+115,3,"2023-09-10 00:00:00",1,7.00,Dessert,"pie de banoffee","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+115,5,"2023-09-10 00:00:00",1,3.00,Drink,"Coca Cola Diet 33cl","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+116,3,"2023-09-10 00:00:00",1,19.00,Pizza,"Pizza diavola (caliente) grande","Calle Merced 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+116,3,"2023-09-10 00:00:00",1,17.00,Pizza,"Pizza pepperoni grande","Calle Merced 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+116,1,"2023-09-10 00:00:00",1,18.00,Pizza,"Pizza napolitana grande","Calle Merced 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+116,1,"2023-09-10 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Calle Merced 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+116,5,"2023-09-10 00:00:00",1,3.00,Drink,"Coca Cola Regular 33cl","Calle Merced 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+117,1,"2023-09-10 00:00:00",0,16.00,Pizza,"Pizza Diavola (Hot) Reg","Av. Kennedy 9010, Providencia, Santiago",,"Santiago de Chile",7500000
+117,2,"2023-09-10 00:00:00",0,19.00,Pizza,"Pizza quattro formaggi grande","Av. Kennedy 9010, Providencia, Santiago",,"Santiago de Chile",7500000
+117,2,"2023-09-10 00:00:00",0,7.00,Side,"Alitas de pollo","Av. Kennedy 9010, Providencia, Santiago",,"Santiago de Chile",7500000
+117,1,"2023-09-10 00:00:00",0,6.00,Dessert,"Helado de fresa","Av. Kennedy 9010, Providencia, Santiago",,"Santiago de Chile",7500000
+118,3,"2023-09-10 00:00:00",1,12.00,Pizza,"Pizza margherita reg","Calle Estado 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+118,2,"2023-09-10 00:00:00",1,16.00,Pizza,"Pizza Diavola (Hot) Reg","Calle Estado 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+118,4,"2023-09-10 00:00:00",1,19.00,Pizza,"Pizza quattro formaggi grande","Calle Estado 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+118,2,"2023-09-10 00:00:00",1,17.00,Pizza,"Pizza pepperoni grande","Calle Estado 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+118,1,"2023-09-10 00:00:00",1,17.00,Pizza,"Pizza Seafood Reg","Calle Estado 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+118,1,"2023-09-10 00:00:00",1,18.00,Pizza,"Pizza napolitana grande","Calle Estado 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+118,5,"2023-09-10 00:00:00",1,15.00,Pizza,"Pizza parmigiana reg","Calle Estado 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+118,4,"2023-09-10 00:00:00",1,6.00,Side,"Pan de ajo","Calle Estado 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+118,4,"2023-09-10 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Calle Estado 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+118,10,"2023-09-10 00:00:00",1,5.00,Dessert,"Ensalada de frutas","Calle Estado 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+118,5,"2023-09-10 00:00:00",1,7.00,Dessert,"pie de banoffee","Calle Estado 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+118,10,"2023-09-10 00:00:00",1,4.00,Drink,"Perrier 1.5l","Calle Estado 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+119,1,"2023-09-10 00:00:00",1,17.00,Pizza,"Pizza Seafood Reg","Av. El Bosque 5678, Las Condes, Santiago",,"Santiago de Chile",7550000
+119,1,"2023-09-10 00:00:00",1,19.00,Pizza,"Pizza diavola (caliente) grande","Av. El Bosque 5678, Las Condes, Santiago",,"Santiago de Chile",7550000
+119,1,"2023-09-10 00:00:00",1,18.00,Pizza,"Pizza napolitana grande","Av. El Bosque 5678, Las Condes, Santiago",,"Santiago de Chile",7550000
+119,2,"2023-09-10 00:00:00",1,6.00,Dessert,"Helado de pistacho","Av. El Bosque 5678, Las Condes, Santiago",,"Santiago de Chile",7550000
+119,3,"2023-09-10 00:00:00",1,3.00,Drink,"Coca Cola Regular 33cl","Av. El Bosque 5678, Las Condes, Santiago",,"Santiago de Chile",7550000
+120,1,"2023-09-11 00:00:00",0,6.00,Drink,"Sprite Regular 1.5l","Calle Santa Isabel 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+120,1,"2023-09-11 00:00:00",0,3.00,Drink,"Fanta Regular 33cl","Calle Santa Isabel 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+120,1,"2023-09-11 00:00:00",0,7.00,Dessert,"pie de banoffee","Calle Santa Isabel 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+120,2,"2023-09-11 00:00:00",0,6.00,Dessert,"Helado de chocolate","Calle Santa Isabel 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+120,1,"2023-09-11 00:00:00",0,5.00,Side,"Palitos de pan","Calle Santa Isabel 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+120,1,"2023-09-11 00:00:00",0,7.00,Side,"Alitas de pollo","Calle Santa Isabel 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+120,1,"2023-09-11 00:00:00",0,19.00,Pizza,"Pizza diavola (caliente) grande","Calle Santa Isabel 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+121,2,"2023-09-11 00:00:00",1,19.00,Pizza,"Pizza diavola (caliente) grande","Av. Manuel Montt 1234, Providencia, Santiago",,"Santiago de Chile",7500000
+121,4,"2023-09-11 00:00:00",1,16.00,Pizza,"Pizza napolitana reg","Av. Manuel Montt 1234, Providencia, Santiago",,"Santiago de Chile",7500000
+121,1,"2023-09-11 00:00:00",1,5.00,Side,"Palitos de pan","Av. Manuel Montt 1234, Providencia, Santiago",,"Santiago de Chile",7500000
+121,1,"2023-09-11 00:00:00",1,6.00,Drink,"Sprite Regular 1.5l","Av. Manuel Montt 1234, Providencia, Santiago",,"Santiago de Chile",7500000
+122,1,"2023-09-11 00:00:00",1,17.00,Pizza,"Pizza pepperoni grande","Calle Huérfanos 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+122,2,"2023-09-11 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Calle Huérfanos 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+122,1,"2023-09-11 00:00:00",1,5.00,Dessert,"Brownie de chocolate","Calle Huérfanos 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+122,2,"2023-09-11 00:00:00",1,6.00,Drink,"Fanta Regular 1.5l","Calle Huérfanos 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+123,1,"2023-09-11 00:00:00",1,16.00,Pizza,"Pizza quattro formaggi reg","Av. Andrés Bello 9010, Las Condes, Santiago",,"Santiago de Chile",7550000
+123,5,"2023-09-11 00:00:00",1,17.00,Pizza,"Pizza pepperoni grande","Av. Andrés Bello 9010, Las Condes, Santiago",,"Santiago de Chile",7550000
+123,2,"2023-09-11 00:00:00",1,16.00,Pizza,"Pizza napolitana reg","Av. Andrés Bello 9010, Las Condes, Santiago",,"Santiago de Chile",7550000
+123,2,"2023-09-11 00:00:00",1,5.00,Side,"Palitos de pan","Av. Andrés Bello 9010, Las Condes, Santiago",,"Santiago de Chile",7550000
+123,12,"2023-09-11 00:00:00",1,6.00,Dessert,"Helado de chocolate","Av. Andrés Bello 9010, Las Condes, Santiago",,"Santiago de Chile",7550000
+123,2,"2023-09-11 00:00:00",1,4.00,Drink,"San Pelligrino 1.5l","Av. Andrés Bello 9010, Las Condes, Santiago",,"Santiago de Chile",7550000
+123,22,"2023-09-11 00:00:00",1,3.00,Drink,"Fanta Regular 33cl","Av. Andrés Bello 9010, Las Condes, Santiago",,"Santiago de Chile",7550000
+123,2,"2023-09-11 00:00:00",1,6.00,Drink,"Sprite Regular 1.5l","Av. Andrés Bello 9010, Las Condes, Santiago",,"Santiago de Chile",7550000
+124,1,"2023-09-11 00:00:00",1,20.00,Pizza,"Mariscos de pizza","Calle Agustinas 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+124,2,"2023-09-11 00:00:00",1,5.00,Side,"Palitos de pan","Calle Agustinas 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+124,2,"2023-09-11 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Calle Agustinas 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+125,1,"2023-09-11 00:00:00",1,4.00,Drink,"San Pelligrino 1.5l","Av. Santa María 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+125,1,"2023-09-11 00:00:00",1,19.00,Pizza,"Pizza quattro formaggi grande","Av. Santa María 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+125,2,"2023-09-11 00:00:00",1,16.00,Pizza,"Pizza napolitana reg","Av. Santa María 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+125,2,"2023-09-11 00:00:00",1,5.00,Side,"Palitos de pan","Av. Santa María 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+125,2,"2023-09-11 00:00:00",1,7.00,Side,"Alitas de pollo","Av. Santa María 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+125,3,"2023-09-11 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Av. Santa María 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+125,4,"2023-09-11 00:00:00",1,7.00,Dessert,"pie de banoffee","Av. Santa María 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+125,1,"2023-09-11 00:00:00",1,3.00,Drink,"Coca Cola Diet 33cl","Av. Santa María 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+125,2,"2023-09-11 00:00:00",1,3.00,Drink,"Coca Cola Regular 33cl","Av. Santa María 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+126,1,"2023-09-11 00:00:00",0,19.00,Pizza,"Pizza diavola (caliente) grande","Calle Ahumada 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+126,1,"2023-09-11 00:00:00",0,7.00,Side,"Alitas de pollo","Calle Ahumada 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+126,1,"2023-09-11 00:00:00",0,5.00,Side,"Palitos de pan","Calle Ahumada 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+126,1,"2023-09-11 00:00:00",0,5.00,Dessert,"Brownie de chocolate","Calle Ahumada 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+126,1,"2023-09-11 00:00:00",0,6.00,Drink,"Coca Cola Regular 1.5l","Calle Ahumada 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+127,1,"2023-09-11 00:00:00",1,19.00,Pizza,"Pizza quattro formaggi grande","Av. Vicuña Mackenna 1234, Ñuñoa, Santiago",,"Santiago de Chile",7510000
+127,1,"2023-09-11 00:00:00",1,5.00,Side,"Palitos de pan","Av. Vicuña Mackenna 1234, Ñuñoa, Santiago",,"Santiago de Chile",7510000
+127,1,"2023-09-11 00:00:00",1,7.00,Dessert,"pie de banoffee","Av. Vicuña Mackenna 1234, Ñuñoa, Santiago",,"Santiago de Chile",7510000
+127,1,"2023-09-11 00:00:00",1,2.00,Drink,"San Pelligrino 33cl","Av. Vicuña Mackenna 1234, Ñuñoa, Santiago",,"Santiago de Chile",7510000
+127,1,"2023-09-11 00:00:00",1,2.00,Drink,"Perrier 33cl","Av. Vicuña Mackenna 1234, Ñuñoa, Santiago",,"Santiago de Chile",7510000
+128,1,"2023-09-11 00:00:00",1,16.00,Pizza,"Pizza Diavola (Hot) Reg","Calle Manuel Rodríguez 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+128,1,"2023-09-11 00:00:00",1,7.00,Side,"Alitas de pollo","Calle Manuel Rodríguez 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+128,1,"2023-09-11 00:00:00",1,3.00,Drink,"Fanta Regular 33cl","Calle Manuel Rodríguez 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+128,1,"2023-09-11 00:00:00",1,17.00,Pizza,"Pizza pepperoni grande","Calle Manuel Rodríguez 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+129,1,"2023-09-11 00:00:00",1,19.00,Pizza,"Pizza quattro formaggi grande","Av. Independencia 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+129,1,"2023-09-11 00:00:00",1,15.00,Pizza,"Pizza Regwaiian Reg","Av. Independencia 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+129,1,"2023-09-11 00:00:00",1,7.00,Dessert,"pie de banoffee","Av. Independencia 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+129,2,"2023-09-11 00:00:00",1,3.00,Drink,"Fanta Regular 33cl","Av. Independencia 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+130,1,"2023-09-11 00:00:00",1,12.00,Pizza,"Pizza margherita reg","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+130,1,"2023-09-11 00:00:00",1,16.00,Pizza,"Pizza Diavola (Hot) Reg","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+130,1,"2023-09-11 00:00:00",1,18.00,Pizza,"Pizza parmigiana grande","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+130,1,"2023-09-11 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+130,1,"2023-09-11 00:00:00",1,6.00,Dessert,"Helado de vainilla","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+130,1,"2023-09-11 00:00:00",1,6.00,Dessert,"Helado de fresa","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+130,2,"2023-09-11 00:00:00",1,2.00,Drink,"San Pelligrino 33cl","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+130,1,"2023-09-11 00:00:00",1,3.00,Drink,"Coca Cola Diet 33cl","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+130,1,"2023-09-11 00:00:00",1,3.00,Drink,"Sprite Regular 33cl","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+131,1,"2023-09-12 00:00:00",1,19.00,Pizza,"Pizza diavola (caliente) grande","Av. Portales 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+131,1,"2023-09-12 00:00:00",1,17.00,Pizza,"Pizza hawaiiana grande","Av. Portales 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+131,1,"2023-09-12 00:00:00",1,7.00,Side,"Alitas de pollo","Av. Portales 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+131,1,"2023-09-12 00:00:00",1,5.00,Dessert,"Brownie de chocolate","Av. Portales 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+131,1,"2023-09-12 00:00:00",1,7.00,Dessert,"pie de banoffee","Av. Portales 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+131,1,"2023-09-12 00:00:00",1,6.00,Drink,"Fanta Regular 1.5l","Av. Portales 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+132,1,"2023-09-12 00:00:00",1,12.00,Pizza,"Pizza margherita reg","Calle Huérfanos 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+132,1,"2023-09-12 00:00:00",1,19.00,Pizza,"Pizza quattro formaggi grande","Calle Huérfanos 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+132,1,"2023-09-12 00:00:00",1,17.00,Pizza,"Pizza pepperoni grande","Calle Huérfanos 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+132,1,"2023-09-12 00:00:00",1,5.00,Dessert,"Brownie de chocolate","Calle Huérfanos 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+132,2,"2023-09-12 00:00:00",1,2.00,Drink,"Perrier 33cl","Calle Huérfanos 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+133,1,"2023-09-12 00:00:00",1,16.00,Pizza,"Pizza Diavola (Hot) Reg","Av. Manuel Montt 1234, Providencia, Santiago",,"Santiago de Chile",7500000
+134,2,"2023-09-12 00:00:00",1,19.00,Pizza,"Pizza diavola (caliente) grande","Calle Agustinas 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+134,1,"2023-09-12 00:00:00",0,16.00,Pizza,"Pizza quattro formaggi reg","Calle Agustinas 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+134,5,"2023-09-12 00:00:00",0,15.00,Pizza,"Pizza Pepperoni Reg","Calle Agustinas 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+134,5,"2023-09-12 00:00:00",0,5.00,Side,"Palitos de pan","Calle Agustinas 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+134,10,"2023-09-12 00:00:00",0,5.00,Dessert,"Brownie de chocolate","Calle Agustinas 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+134,5,"2023-09-12 00:00:00",0,7.00,Dessert,"pie de banoffee","Calle Agustinas 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+134,5,"2023-09-12 00:00:00",0,5.00,Dessert,"Ensalada de frutas","Calle Agustinas 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+134,20,"2023-09-12 00:00:00",0,6.00,Dessert,"Helado de chocolate","Calle Agustinas 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+134,1,"2023-09-12 00:00:00",0,4.00,Drink,"San Pelligrino 1.5l","Calle Agustinas 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+135,3,"2023-09-12 00:00:00",1,19.00,Pizza,"Pizza diavola (caliente) grande","Av. Santa María 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+135,2,"2023-09-12 00:00:00",1,5.00,Side,"Palitos de pan","Av. Santa María 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+135,3,"2023-09-12 00:00:00",1,7.00,Side,"Alitas de pollo","Av. Santa María 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+135,2,"2023-09-12 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Av. Santa María 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+136,2,"2023-09-12 00:00:00",1,6.00,Drink,"Coca Cola Regular 1.5l","Calle Ahumada 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+136,2,"2023-09-12 00:00:00",1,19.00,Pizza,"Pizza diavola (caliente) grande","Calle Ahumada 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+136,4,"2023-09-12 00:00:00",1,5.00,Dessert,"Brownie de chocolate","Calle Ahumada 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+137,1,"2023-09-12 00:00:00",0,16.00,Pizza,"Pizza Diavola (Hot) Reg","Calle San Isidro 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+137,1,"2023-09-12 00:00:00",0,15.00,Pizza,"Pizza Pepperoni Reg","Calle San Isidro 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+137,1,"2023-09-12 00:00:00",0,6.00,Side,"Pan de ajo","Calle San Isidro 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+137,2,"2023-09-12 00:00:00",0,3.00,Drink,"Fanta Regular 33cl","Calle San Isidro 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+138,1,"2023-09-12 00:00:00",1,5.00,Side,"Palitos de pan","Calle Los Leones 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+138,2,"2023-09-12 00:00:00",1,7.00,Side,"Alitas de pollo","Calle Los Leones 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+138,1,"2023-09-12 00:00:00",1,5.00,Dessert,"Brownie de chocolate","Calle Los Leones 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+138,1,"2023-09-12 00:00:00",1,6.00,Side,"Pan de ajo","Calle Los Leones 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+139,1,"2023-09-12 00:00:00",1,12.00,Pizza,"Pizza margherita reg","Calle Isabel La Católica 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+139,1,"2023-09-12 00:00:00",1,16.00,Pizza,"Pizza Diavola (Hot) Reg","Calle Isabel La Católica 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+139,1,"2023-09-12 00:00:00",1,19.00,Pizza,"Pizza quattro formaggi grande","Calle Isabel La Católica 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+139,1,"2023-09-12 00:00:00",1,18.00,Pizza,"Pizza napolitana grande","Calle Isabel La Católica 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+139,1,"2023-09-12 00:00:00",1,20.00,Pizza,"Mariscos de pizza","Calle Isabel La Católica 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+139,1,"2023-09-12 00:00:00",1,6.00,Side,"Pan de ajo","Calle Isabel La Católica 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+139,6,"2023-09-12 00:00:00",1,7.00,Side,"Alitas de pollo","Calle Isabel La Católica 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+139,9,"2023-09-12 00:00:00",1,5.00,Side,"Palitos de pan","Calle Isabel La Católica 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+139,1,"2023-09-12 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Calle Isabel La Católica 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+140,2,"2023-09-12 00:00:00",1,7.00,Side,"Alitas de pollo","Calle Manuel de Salas 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+140,1,"2023-09-12 00:00:00",1,17.00,Pizza,"Pizza hawaiiana grande","Calle Manuel de Salas 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+140,1,"2023-09-12 00:00:00",1,5.00,Dessert,"Brownie de chocolate","Calle Manuel de Salas 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+140,1,"2023-09-12 00:00:00",1,6.00,Drink,"Coca Cola Regular 1.5l","Calle Manuel de Salas 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+141,1,"2023-09-12 00:00:00",0,7.00,Dessert,"pie de banoffee","Calle Recoleta 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+141,1,"2023-09-12 00:00:00",0,5.00,Dessert,"Brownie de chocolate","Calle Recoleta 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+141,1,"2023-09-12 00:00:00",0,18.00,Pizza,"Pizza parmigiana grande","Calle Recoleta 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+141,1,"2023-09-12 00:00:00",0,16.00,Pizza,"Pizza napolitana reg","Calle Recoleta 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+141,1,"2023-09-12 00:00:00",0,19.00,Pizza,"Pizza quattro formaggi grande","Calle Recoleta 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+142,3,"2023-09-13 00:00:00",1,12.00,Pizza,"Pizza margherita reg","Calle Lastarria 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+142,3,"2023-09-13 00:00:00",1,5.00,Side,"Palitos de pan","Calle Lastarria 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+142,3,"2023-09-13 00:00:00",1,6.00,Dessert,"Helado de fresa","Calle Lastarria 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+142,3,"2023-09-13 00:00:00",1,6.00,Drink,"Sprite Regular 1.5l","Calle Lastarria 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+143,1,"2023-09-13 00:00:00",0,12.00,Pizza,"Pizza margherita reg","Calle San Francisco 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+143,1,"2023-09-13 00:00:00",0,16.00,Pizza,"Pizza Diavola (Hot) Reg","Calle San Francisco 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+143,1,"2023-09-13 00:00:00",0,5.00,Side,"Palitos de pan","Calle San Francisco 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+143,1,"2023-09-13 00:00:00",0,7.00,Dessert,"pie de banoffee","Calle San Francisco 9010, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+144,1,"2023-09-13 00:00:00",1,19.00,Pizza,"Pizza diavola (caliente) grande","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+144,1,"2023-09-13 00:00:00",1,16.00,Pizza,"Pizza quattro formaggi reg","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+144,1,"2023-09-13 00:00:00",1,5.00,Dessert,"Ensalada de frutas","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+144,1,"2023-09-13 00:00:00",1,6.00,Dessert,"Helado de vainilla","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+144,1,"2023-09-13 00:00:00",1,3.00,Drink,"Sprite Regular 33cl","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+144,1,"2023-09-13 00:00:00",1,3.00,Drink,"Coca Cola Regular 33cl","Calle Alameda 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+145,1,"2023-09-13 00:00:00",1,19.00,Pizza,"Pizza diavola (caliente) grande","Av. Providencia 1234, Providencia, Santiago",,"Santiago de Chile",7500000
+145,2,"2023-09-13 00:00:00",1,17.00,Pizza,"Pizza Seafood Reg","Av. Providencia 1234, Providencia, Santiago",,"Santiago de Chile",7500000
+145,1,"2023-09-13 00:00:00",1,18.00,Pizza,"Pizza parmigiana grande","Av. Providencia 1234, Providencia, Santiago",,"Santiago de Chile",7500000
+145,3,"2023-09-13 00:00:00",1,7.00,Side,"Alitas de pollo","Av. Providencia 1234, Providencia, Santiago",,"Santiago de Chile",7500000
+145,2,"2023-09-13 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Av. Providencia 1234, Providencia, Santiago",,"Santiago de Chile",7500000
+145,2,"2023-09-13 00:00:00",1,5.00,Dessert,"Ensalada de frutas","Av. Providencia 1234, Providencia, Santiago",,"Santiago de Chile",7500000
+145,1,"2023-09-13 00:00:00",1,4.00,Drink,"San Pelligrino 1.5l","Av. Providencia 1234, Providencia, Santiago",,"Santiago de Chile",7500000
+146,1,"2023-09-13 00:00:00",1,15.00,Pizza,"Pizza parmigiana reg","Calle San Diego 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+146,1,"2023-09-13 00:00:00",1,16.00,Pizza,"Pizza quattro formaggi reg","Calle San Diego 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+146,1,"2023-09-13 00:00:00",1,19.00,Pizza,"Pizza diavola (caliente) grande","Calle San Diego 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+146,2,"2023-09-13 00:00:00",1,7.00,Dessert,"pie de banoffee","Calle San Diego 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+146,1,"2023-09-13 00:00:00",1,3.00,Drink,"Sprite Diet 33cl","Calle San Diego 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+146,1,"2023-09-13 00:00:00",1,3.00,Drink,"Coca Cola Diet 33cl","Calle San Diego 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+147,1,"2023-09-13 00:00:00",1,6.00,Drink,"Fanta Diet 1.5l","Av. Apoquindo 9010, Las Condes, Santiago",,"Santiago de Chile",7550000
+147,2,"2023-09-13 00:00:00",1,5.00,Dessert,"Brownie de chocolate","Av. Apoquindo 9010, Las Condes, Santiago",,"Santiago de Chile",7550000
+147,2,"2023-09-13 00:00:00",1,16.00,Pizza,"Pizza napolitana reg","Av. Apoquindo 9010, Las Condes, Santiago",,"Santiago de Chile",7550000
+148,2,"2023-09-13 00:00:00",1,19.00,Pizza,"Pizza diavola (caliente) grande","Calle Nueva York 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+148,1,"2023-09-13 00:00:00",1,12.00,Pizza,"Pizza margherita reg","Calle Nueva York 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+148,3,"2023-09-13 00:00:00",1,16.00,Pizza,"Pizza Diavola (Hot) Reg","Calle Nueva York 1234, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+149,1,"2023-09-13 00:00:00",0,17.00,Pizza,"Pizza pepperoni grande","Calle Brasil 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+149,1,"2023-09-13 00:00:00",0,19.00,Pizza,"Pizza diavola (caliente) grande","Calle Brasil 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+149,1,"2023-09-13 00:00:00",0,7.00,Side,"Ensalada CÃ©sar","Calle Brasil 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+149,1,"2023-09-13 00:00:00",0,6.00,Side,"Pan de ajo","Calle Brasil 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+149,1,"2023-09-13 00:00:00",0,7.00,Dessert,"pie de banoffee","Calle Brasil 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+149,1,"2023-09-13 00:00:00",0,5.00,Dessert,"Brownie de chocolate","Calle Brasil 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+149,1,"2023-09-13 00:00:00",0,6.00,Drink,"Fanta Diet 1.5l","Calle Brasil 5678, Providencia, Santiago",,"Santiago de Chile",7500000
+150,2,"2023-09-13 00:00:00",1,16.00,Pizza,"Pizza Diavola (Hot) Reg","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+150,1,"2023-09-13 00:00:00",1,15.00,Pizza,"Pizza parmigiana reg","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+150,2,"2023-09-13 00:00:00",1,6.00,Side,"Pan de ajo","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+150,1,"2023-09-13 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+150,1,"2023-09-13 00:00:00",1,5.00,Dessert,"Brownie de chocolate","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+150,1,"2023-09-13 00:00:00",1,6.00,Dessert,"Helado de chocolate","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+150,1,"2023-09-13 00:00:00",1,4.00,Drink,"San Pelligrino 1.5l","Calle Alonso de Córdova 9010, Vitacura, Santiago",,"Santiago de Chile",7600000
+151,4,"2023-09-13 00:00:00",0,5.00,Dessert,"Brownie de chocolate","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+151,2,"2023-09-13 00:00:00",0,7.00,Side,"Alitas de pollo","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+151,1,"2023-09-13 00:00:00",0,19.00,Pizza,"Pizza diavola (caliente) grande","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+151,1,"2023-09-13 00:00:00",0,12.00,Pizza,"Pizza margherita reg","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+151,1,"2023-09-13 00:00:00",0,16.00,Pizza,"Pizza quattro formaggi reg","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+151,2,"2023-09-13 00:00:00",0,15.00,Pizza,"Pizza Pepperoni Reg","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+151,3,"2023-09-13 00:00:00",0,18.00,Pizza,"Pizza napolitana grande","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+151,1,"2023-09-13 00:00:00",0,17.00,Pizza,"Pizza Seafood Reg","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+151,2,"2023-09-13 00:00:00",0,5.00,Side,"Palitos de pan","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+151,3,"2023-09-13 00:00:00",0,3.00,Drink,"Coca Cola Regular 33cl","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+151,3,"2023-09-13 00:00:00",1,6.00,Drink,"Sprite Regular 1.5l","Av. Isidora Goyenechea 1234, Las Condes, Santiago",,"Santiago de Chile",7550000
+152,1,"2023-09-13 00:00:00",1,16.00,Pizza,"Pizza Diavola (Hot) Reg","Calle Merced 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+152,1,"2023-09-13 00:00:00",1,16.00,Pizza,"Pizza quattro formaggi reg","Calle Merced 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+152,1,"2023-09-13 00:00:00",1,5.00,Side,"Palitos de pan","Calle Merced 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+152,1,"2023-09-13 00:00:00",1,5.00,Dessert,"Brownie de chocolate","Calle Merced 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+152,1,"2023-09-13 00:00:00",1,3.00,Drink,"Sprite Regular 33cl","Calle Merced 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+152,1,"2023-09-13 00:00:00",1,6.00,Drink,"Coca Cola Regular 1.5l","Calle Merced 5678, Santiago Centro, Santiago",,"Santiago de Chile",8300000
+153,1,"2023-09-14 00:00:00",1,14.00,Pizza,"Pizza Margherita grande","Av. Kennedy 9010, Providencia, Santiago",,"Santiago de Chile",7500000
+153,1,"2023-09-14 00:00:00",1,17.00,Pizza,"Pizza hawaiiana grande","Av. Kennedy 9010, Providencia, Santiago",,"Santiago de Chile",7500000
+153,1,"2023-09-14 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Av. Kennedy 9010, Providencia, Santiago",,"Santiago de Chile",7500000
+153,1,"2023-09-14 00:00:00",1,6.00,Dessert,"Helado de vainilla","Av. Kennedy 9010, Providencia, Santiago",,"Santiago de Chile",7500000
+153,1,"2023-09-14 00:00:00",1,6.00,Drink,"Coca Cola Regular 1.5l","Av. Kennedy 9010, Providencia, Santiago",,"Santiago de Chile",7500000
+153,1,"2023-09-14 00:00:00",1,6.00,Drink,"Fanta Regular 1.5l","Av. Kennedy 9010, Providencia, Santiago",,"Santiago de Chile",7500000
+154,1,"2023-09-14 00:00:00",1,12.00,Pizza,"Pizza margherita reg","Av. Isidora Goyenechea 1234, Las Condes, Santiago7550000",,"Santiago de Chile",7550000
+154,1,"2023-09-14 00:00:00",1,16.00,Pizza,"Pizza napolitana reg","Av. Isidora Goyenechea 1234, Las Condes, Santiago7550000",,"Santiago de Chile",7550000
+155,1,"2023-09-14 00:00:00",1,17.00,Pizza,"Pizza pepperoni grande","Calle Merced 5678, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+155,1,"2023-09-14 00:00:00",1,5.00,Side,"Palitos de pan","Calle Merced 5678, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+155,2,"2023-09-14 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Calle Merced 5678, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+155,1,"2023-09-14 00:00:00",1,6.00,Drink,"Fanta Regular 1.5l","Calle Merced 5678, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+156,20,"2023-09-14 00:00:00",1,19.00,Pizza,"Pizza quattro formaggi grande","Av. Kennedy 9010, Providencia, Santiago7500000",,"Santiago de Chile",7500000
+156,1,"2023-09-14 00:00:00",1,14.00,Pizza,"Pizza Margherita grande","Av. Kennedy 9010, Providencia, Santiago7500000",,"Santiago de Chile",7500000
+156,8,"2023-09-14 00:00:00",1,16.00,Pizza,"Pizza Diavola (Hot) Reg","Av. Kennedy 9010, Providencia, Santiago7500000",,"Santiago de Chile",7500000
+156,5,"2023-09-14 00:00:00",1,16.00,Pizza,"Pizza quattro formaggi reg","Av. Kennedy 9010, Providencia, Santiago7500000",,"Santiago de Chile",7500000
+156,1,"2023-09-14 00:00:00",1,18.00,Pizza,"Pizza napolitana grande","Av. Kennedy 9010, Providencia, Santiago7500000",,"Santiago de Chile",7500000
+156,1,"2023-09-14 00:00:00",1,17.00,Pizza,"Pizza Seafood Reg","Av. Kennedy 9010, Providencia, Santiago7500000",,"Santiago de Chile",7500000
+157,1,"2023-09-14 00:00:00",1,19.00,Pizza,"Pizza quattro formaggi grande","Calle Estado 1234, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+157,1,"2023-09-14 00:00:00",1,16.00,Pizza,"Pizza napolitana reg","Calle Estado 1234, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+157,2,"2023-09-14 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Calle Estado 1234, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+157,1,"2023-09-14 00:00:00",1,7.00,Dessert,"pie de banoffee","Calle Estado 1234, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+157,1,"2023-09-14 00:00:00",1,6.00,Dessert,"Helado de pistacho","Calle Estado 1234, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+157,2,"2023-09-14 00:00:00",1,6.00,Dessert,"Helado de fresa","Calle Estado 1234, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+158,1,"2023-09-14 00:00:00",1,15.00,Pizza,"Pizza Pepperoni Reg","Av. El Bosque 5678, Las Condes, Santiago7550000",,"Santiago de Chile",7510000
+158,1,"2023-09-14 00:00:00",1,17.00,Pizza,"Pizza hawaiiana grande","Av. El Bosque 5678, Las Condes, Santiago7550000",,"Santiago de Chile",7510000
+158,1,"2023-09-14 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Av. El Bosque 5678, Las Condes, Santiago7550000",,"Santiago de Chile",7510000
+158,2,"2023-09-14 00:00:00",1,5.00,Dessert,"Brownie de chocolate","Av. El Bosque 5678, Las Condes, Santiago7550000",,"Santiago de Chile",7510000
+159,1,"2023-09-14 00:00:00",1,14.00,Pizza,"Pizza Margherita grande","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,1,"2023-09-14 00:00:00",1,19.00,Pizza,"Pizza quattro formaggi grande","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,2,"2023-09-14 00:00:00",1,17.00,Pizza,"Pizza pepperoni grande","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,2,"2023-09-14 00:00:00",0,17.00,Pizza,"Pizza hawaiiana grande","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,1,"2023-09-14 00:00:00",0,18.00,Pizza,"Pizza parmigiana grande","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,2,"2023-09-14 00:00:00",0,6.00,Side,"Pan de ajo","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,2,"2023-09-14 00:00:00",0,7.00,Side,"Alitas de pollo","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,2,"2023-09-14 00:00:00",0,5.00,Side,"Palitos de pan","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,2,"2023-09-14 00:00:00",0,7.00,Side,"Ensalada CÃ©sar","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,1,"2023-09-14 00:00:00",0,6.00,Dessert,"Helado de chocolate","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,1,"2023-09-14 00:00:00",0,6.00,Dessert,"Helado de pistacho","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,1,"2023-09-14 00:00:00",0,6.00,Dessert,"Helado de fresa","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,1,"2023-09-14 00:00:00",0,6.00,Dessert,"Helado de vainilla","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,5,"2023-09-14 00:00:00",0,5.00,Dessert,"Brownie de chocolate","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,5,"2023-09-14 00:00:00",1,7.00,Dessert,"pie de banoffee","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,1,"2023-09-14 00:00:00",1,5.00,Dessert,"Ensalada de frutas","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+159,1,"2023-09-14 00:00:00",1,6.00,Drink,"Fanta Regular 1.5l","Calle Santa Isabel 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+160,2,"2023-09-14 00:00:00",1,19.00,Pizza,"Pizza diavola (caliente) grande","Av. Manuel Montt 1234, Providencia, Santiago7500000",,"Santiago de Chile",8300000
+160,1,"2023-09-14 00:00:00",1,15.00,Pizza,"Pizza Pepperoni Reg","Av. Manuel Montt 1234, Providencia, Santiago7500000",,"Santiago de Chile",8300000
+160,4,"2023-09-14 00:00:00",1,18.00,Pizza,"Pizza parmigiana grande","Av. Manuel Montt 1234, Providencia, Santiago7500000",,"Santiago de Chile",8300000
+160,1,"2023-09-14 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Av. Manuel Montt 1234, Providencia, Santiago7500000",,"Santiago de Chile",8300000
+160,1,"2023-09-14 00:00:00",1,5.00,Side,"Palitos de pan","Av. Manuel Montt 1234, Providencia, Santiago7500000",,"Santiago de Chile",8300000
+160,1,"2023-09-14 00:00:00",1,7.00,Side,"Alitas de pollo","Av. Manuel Montt 1234, Providencia, Santiago7500000",,"Santiago de Chile",8300000
+160,1,"2023-09-14 00:00:00",1,6.00,Side,"Pan de ajo","Av. Manuel Montt 1234, Providencia, Santiago7500000",,"Santiago de Chile",8300000
+160,3,"2023-09-14 00:00:00",1,6.00,Dessert,"Helado de vainilla","Av. Manuel Montt 1234, Providencia, Santiago7500000",,"Santiago de Chile",8300000
+160,1,"2023-09-14 00:00:00",1,5.00,Dessert,"Brownie de chocolate","Av. Manuel Montt 1234, Providencia, Santiago7500000",,"Santiago de Chile",8300000
+160,3,"2023-09-14 00:00:00",1,4.00,Drink,"San Pelligrino 1.5l","Av. Manuel Montt 1234, Providencia, Santiago7500000",,"Santiago de Chile",8300000
+160,1,"2023-09-14 00:00:00",1,3.00,Drink,"Fanta Regular 33cl","Av. Manuel Montt 1234, Providencia, Santiago7500000",,"Santiago de Chile",8300000
+160,1,"2023-09-14 00:00:00",1,6.00,Drink,"Sprite Regular 1.5l","Av. Manuel Montt 1234, Providencia, Santiago7500000",,"Santiago de Chile",8300000
+161,10,"2023-09-14 00:00:00",1,16.00,Pizza,"Pizza quattro formaggi reg","Calle Huérfanos 5678, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+162,1,"2023-09-14 00:00:00",1,18.00,Pizza,"Pizza parmigiana grande","Av. Andrés Bello 9010, Las Condes, Santiago7550000",,"Santiago de Chile",7500000
+162,1,"2023-09-14 00:00:00",1,19.00,Pizza,"Pizza quattro formaggi grande","Av. Andrés Bello 9010, Las Condes, Santiago7550000",,"Santiago de Chile",7500000
+162,1,"2023-09-14 00:00:00",1,6.00,Side,"Pan de ajo","Av. Andrés Bello 9010, Las Condes, Santiago7550000",,"Santiago de Chile",7500000
+163,1,"2023-09-14 00:00:00",1,18.00,Pizza,"Pizza parmigiana grande","Calle Agustinas 1234, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+163,1,"2023-09-14 00:00:00",1,14.00,Pizza,"Pizza Margherita grande","Calle Agustinas 1234, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+163,1,"2023-09-14 00:00:00",1,6.00,Side,"Pan de ajo","Calle Agustinas 1234, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+164,1,"2023-09-14 00:00:00",1,14.00,Pizza,"Pizza Margherita grande","Av. Santa María 5678, Providencia, Santiago7500000",,"Santiago de Chile",7500000
+164,1,"2023-09-14 00:00:00",1,19.00,Pizza,"Pizza diavola (caliente) grande","Av. Santa María 5678, Providencia, Santiago7500000",,"Santiago de Chile",7500000
+164,1,"2023-09-14 00:00:00",1,17.00,Pizza,"Pizza pepperoni grande","Av. Santa María 5678, Providencia, Santiago7500000",,"Santiago de Chile",7500000
+164,2,"2023-09-14 00:00:00",1,5.00,Side,"Palitos de pan","Av. Santa María 5678, Providencia, Santiago7500000",,"Santiago de Chile",7500000
+164,2,"2023-09-14 00:00:00",1,7.00,Side,"Ensalada CÃ©sar","Av. Santa María 5678, Providencia, Santiago7500000",,"Santiago de Chile",7500000
+164,1,"2023-09-14 00:00:00",1,7.00,Dessert,"pie de banoffee","Av. Santa María 5678, Providencia, Santiago7500000",,"Santiago de Chile",7500000
+164,2,"2023-09-14 00:00:00",1,6.00,Drink,"Coca Cola Regular 1.5l","Av. Santa María 5678, Providencia, Santiago7500000",,"Santiago de Chile",7500000
+165,2,"2023-09-14 00:00:00",0,6.00,Side,"Pan de ajo","Calle Ahumada 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+165,1,"2023-09-14 00:00:00",0,19.00,Pizza,"Pizza diavola (caliente) grande","Calle Ahumada 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+165,1,"2023-09-14 00:00:00",0,14.00,Pizza,"Pizza Margherita grande","Calle Ahumada 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+165,1,"2023-09-14 00:00:00",0,7.00,Dessert,"pie de banoffee","Calle Ahumada 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+165,1,"2023-09-14 00:00:00",0,6.00,Drink,"Coca Cola Diet 1.5l","Calle Ahumada 9010, Santiago Centro, Santiago8300000",,"Santiago de Chile",8300000
+166,1,"2023-09-14 00:00:00",1,16.00,Pizza,"Pizza quattro formaggi reg","Av. Vicuña Mackenna 1234, Ñuñoa, Santiago7510000",,"Santiago de Chile",7500000
+166,1,"2023-09-14 00:00:00",1,5.00,Side,"Palitos de pan","Av. Vicuña Mackenna 1234, Ñuñoa, Santiago7510000",,"Santiago de Chile",7500000
+166,1,"2023-09-14 00:00:00",1,5.00,Dessert,"Brownie de chocolate","Av. Vicuña Mackenna 1234, Ñuñoa, Santiago7510000",,"Santiago de Chile",7500000
+166,1,"2023-09-14 00:00:00",1,6.00,Drink,"Coca Cola Regular 1.5l","Av. Vicuña Mackenna 1234, Ñuñoa, Santiago7510000",,"Santiago de Chile",7500000

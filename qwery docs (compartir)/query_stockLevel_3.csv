@@ -1,0 +1,46 @@
+nombre_ingrediente,volumen_ing_gastado,ing_weight,quantity,volumen_inventario_total,volumen_inventario_restante
+"Bola de masa de pizza (paquete 8)",78650,2000,50,100000,21350
+"Salsa de tomate",20600,4500,25,112500,91900
+"Queso mozzarella",42300,2500,40,100000,57700
+"Orégano seco",146,500,4,2000,1854
+"Salami picante",3390,3500,2,7000,3610
+"Pimiento picante",705,1000,4,4000,3295
+"queso parmesano",13850,2500,10,25000,11150
+"Queso Gorgonzola",10320,3500,10,35000,24680
+"Queso ricotta",10320,1500,10,15000,4680
+"Trozos de pollo asado",4440,5000,5,25000,20560
+Crutones,1850,1250,5,6250,4400
+"Lechuga romain",3700,7500,5,37500,33800
+"Aderezo César",740,3800,5,19000,18260
+"helado de fresa",900,4500,2,9000,8100
+"San Pelligrino 33cl",4,1,120,120,116
+Anchoas,1850,1000,2,2000,150
+alcaparras,133,1000,2,2000,1867
+"Helado de pistacho",600,4500,2,9000,8400
+"Helado de chocolate",3700,4500,2,9000,5300
+"Brownie de chocolate",3225,2500,2,5000,1775
+"Alitas de pollo",3600,6000,4,24000,20400
+"Pie de banoffee",4200,1200,2,2400,-1800
+"Helado de vainilla",800,4500,2,9000,8200
+"Coca Cola Regular 1.5L",10,1,120,120,110
+Berenjena,2580,1000,20,20000,17420
+"Dieta de coca cola 33cl",8,1,120,120,112
+Pepperoni,6320,2500,10,25000,18680
+"Coca cola regular 33cl",14,1,120,120,106
+Camarón,1250,1000,10,10000,8750
+Atún,1250,2000,3,6000,4750
+Calamares,1250,2500,3,7500,6250
+"Mantequilla de ajo y perejil",255,3000,3,9000,8745
+"Ensalada de frutas",2850,5000,2,10000,7150
+"Perrier 1.5L",10,1,120,120,110
+"Sprite regular 1.5l",11,1,120,120,109
+"Fanta regular 33cl",29,1,120,120,91
+"Fanta regular 1.5l",6,1,120,120,114
+"San Pelligrino 1.5L",9,1,120,120,111
+"Perrier 33Cl",3,1,120,120,117
+jamón,1030,5000,4,20000,18970
+Piña,820,5000,4,20000,19180
+"Sprite regular 33cl",3,1,120,120,117
+"Dieta de sprite 33cl",1,1,120,120,119
+"Dieta fanta 1.5l",2,1,120,120,118
+"Dieta de coca cola 1.5l",1,1,120,120,119

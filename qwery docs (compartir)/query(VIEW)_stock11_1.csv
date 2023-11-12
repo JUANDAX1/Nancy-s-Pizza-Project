@@ -1,0 +1,110 @@
+nombre_item,igrediente_id,nombre_ingrediente,volumen_ingrediente,precio_ingrediente,cantidad_de_ordenes,gramaje_receta,costo_granular_ing,volumen_ing_consumido,valor_inventario_consumido
+"Pizza margherita reg",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,18,250,0.002110,4500,9.495000
+"Pizza margherita reg",REF30002,"Salsa de tomate",4500,3.89,18,80,0.000864,1440,1.244799
+"Pizza margherita reg",REF30003,"Queso mozzarella",2500,14.45,18,170,0.005780,3060,17.686800
+"Pizza margherita reg",REF30004,"Orégano seco",500,5.99,18,5,0.011980,90,1.078200
+"Pizza Diavola (Hot) Reg",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,30,250,0.002110,7500,15.825000
+"Pizza Diavola (Hot) Reg",REF30002,"Salsa de tomate",4500,3.89,30,80,0.000864,2400,2.074666
+"Pizza Diavola (Hot) Reg",REF30003,"Queso mozzarella",2500,14.45,30,170,0.005780,5100,29.478000
+"Pizza Diavola (Hot) Reg",REF30005,"Salami picante",3500,37.64,30,50,0.010754,1500,16.131428
+"Pizza Diavola (Hot) Reg",REF30006,"Pimiento picante",1000,6.49,30,10,0.006490,300,1.947000
+"Pizza quattro formaggi grande",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,39,300,0.002110,11700,24.687000
+"Pizza quattro formaggi grande",REF30002,"Salsa de tomate",4500,3.89,39,100,0.000864,3900,3.371332
+"Pizza quattro formaggi grande",REF30003,"Queso mozzarella",2500,14.45,39,200,0.005780,7800,45.084000
+"Pizza quattro formaggi grande",REF30008,"queso parmesano",2500,18.75,39,180,0.007500,7020,52.650000
+"Pizza quattro formaggi grande",REF30009,"Queso Gorgonzola",3500,27.64,39,180,0.007897,7020,55.437937
+"Pizza quattro formaggi grande",REF30010,"Queso ricotta",1500,3.99,39,180,0.002660,7020,18.673200
+"Palitos de pan",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,46,250,0.002110,11500,24.265000
+"Ensalada CÃ©sar",REF30021,"Trozos de pollo asado",5000,34.45,37,120,0.006890,4440,30.591600
+"Ensalada CÃ©sar",REF30022,Crutones,1250,5.25,37,50,0.004200,1850,7.770000
+"Ensalada CÃ©sar",REF30023,"Lechuga romain",7500,13.72,37,100,0.001829,3700,6.768532
+"Ensalada CÃ©sar",REF30024,"Aderezo César",3800,17.98,37,20,0.004732,740,3.501368
+"Helado de fresa",REF30027,"helado de fresa",4500,15.45,9,100,0.003433,900,3.090000
+"San Pelligrino 33cl",REF30044,"San Pelligrino 33cl",1,0.36,4,1,0.360000,4,1.440000
+"Pizza napolitana reg",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,14,250,0.002110,3500,7.385000
+"Pizza napolitana reg",REF30002,"Salsa de tomate",4500,3.89,14,80,0.000864,1120,0.968177
+"Pizza napolitana reg",REF30003,"Queso mozzarella",2500,14.45,14,170,0.005780,2380,13.756400
+"Pizza napolitana reg",REF30011,Anchoas,1000,10.99,14,100,0.010990,1400,15.386000
+"Pizza napolitana reg",REF30012,alcaparras,1000,4.16,14,5,0.004160,70,0.291200
+"Helado de pistacho",REF30028,"Helado de pistacho",4500,15.45,6,100,0.003433,600,2.060000
+"Helado de chocolate",REF30026,"Helado de chocolate",4500,15.45,37,100,0.003433,3700,12.703332
+"Brownie de chocolate",REF30029,"Brownie de chocolate",2500,4.45,43,75,0.001780,3225,5.740500
+"Pizza Margherita grande",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,7,300,0.002110,2100,4.431000
+"Pizza Margherita grande",REF30002,"Salsa de tomate",4500,3.89,7,100,0.000864,700,0.605111
+"Pizza Margherita grande",REF30003,"Queso mozzarella",2500,14.45,7,200,0.005780,1400,8.092000
+"Pizza Margherita grande",REF30004,"Orégano seco",500,5.99,7,8,0.011980,56,0.670880
+"Pizza napolitana grande",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,9,300,0.002110,2700,5.697000
+"Pizza napolitana grande",REF30002,"Salsa de tomate",4500,3.89,9,100,0.000864,900,0.778000
+"Pizza napolitana grande",REF30003,"Queso mozzarella",2500,14.45,9,200,0.005780,1800,10.404000
+"Pizza napolitana grande",REF30011,Anchoas,1000,10.99,9,50,0.010990,450,4.945500
+"Pizza napolitana grande",REF30012,alcaparras,1000,4.16,9,7,0.004160,63,0.262080
+"Alitas de pollo",REF30020,"Alitas de pollo",6000,69.83,30,120,0.011638,3600,41.897999
+"pie de banoffee",REF30030,"Pie de banoffee",1200,1.15,35,120,0.000958,4200,4.024999
+"Helado de vainilla",REF30025,"Helado de vainilla",4500,15.45,8,100,0.003433,800,2.746666
+"Coca Cola Regular 1.5l",REF30033,"Coca Cola Regular 1.5L",1,0.96,10,1,0.960000,10,9.600000
+"Pizza parmigiana reg",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,9,250,0.002110,2250,4.747500
+"Pizza parmigiana reg",REF30002,"Salsa de tomate",4500,3.89,9,80,0.000864,720,0.622400
+"Pizza parmigiana reg",REF30003,"Queso mozzarella",2500,14.45,9,170,0.005780,1530,8.843400
+"Pizza parmigiana reg",REF30007,Berenjena,1000,1.90,9,120,0.001900,1080,2.052000
+"Pizza parmigiana reg",REF30008,"queso parmesano",2500,18.75,9,170,0.007500,1530,11.475000
+"Coca Cola Diet 33cl",REF30034,"Dieta de coca cola 33cl",1,0.41,8,1,0.410000,8,3.280000
+"Pizza diavola (caliente) grande",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,27,300,0.002110,8100,17.091000
+"Pizza diavola (caliente) grande",REF30002,"Salsa de tomate",4500,3.89,27,100,0.000864,2700,2.333999
+"Pizza diavola (caliente) grande",REF30003,"Queso mozzarella",2500,14.45,27,200,0.005780,5400,31.212000
+"Pizza diavola (caliente) grande",REF30005,"Salami picante",3500,37.64,27,70,0.010754,1890,20.325599
+"Pizza diavola (caliente) grande",REF30006,"Pimiento picante",1000,6.49,27,15,0.006490,405,2.628450
+"Pizza pepperoni grande",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,18,300,0.002110,5400,11.394000
+"Pizza pepperoni grande",REF30002,"Salsa de tomate",4500,3.89,18,100,0.000864,1800,1.555999
+"Pizza pepperoni grande",REF30003,"Queso mozzarella",2500,14.45,18,200,0.005780,3600,20.808000
+"Pizza pepperoni grande",REF30013,Pepperoni,2500,24.18,18,240,0.009672,4320,41.783040
+"Coca Cola Regular 33cl",REF30032,"Coca cola regular 33cl",1,0.41,14,1,0.410000,14,5.740000
+"Pizza Seafood Reg",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,6,250,0.002110,1500,3.165000
+"Pizza Seafood Reg",REF30002,"Salsa de tomate",4500,3.89,6,80,0.000864,480,0.414933
+"Pizza Seafood Reg",REF30003,"Queso mozzarella",2500,14.45,6,170,0.005780,1020,5.895600
+"Pizza Seafood Reg",REF30014,Camarón,1000,8.98,6,150,0.008980,900,8.082000
+"Pizza Seafood Reg",REF30015,Atún,2000,7.66,6,150,0.003830,900,3.447000
+"Pizza Seafood Reg",REF30016,Calamares,2500,28.77,6,150,0.011508,900,10.357200
+"Pan de ajo",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,17,250,0.002110,4250,8.967500
+"Pan de ajo",REF30019,"Mantequilla de ajo y perejil",3000,52.10,17,15,0.017367,255,4.428500
+"Ensalada de frutas",REF30031,"Ensalada de frutas",5000,7.12,19,150,0.001424,2850,4.058400
+"Perrier 1.5l",REF30047,"Perrier 1.5L",1,0.86,10,1,0.860000,10,8.600000
+"Sprite Regular 1.5l",REF30037,"Sprite regular 1.5l",1,0.96,11,1,0.960000,11,10.560000
+"Fanta Regular 33cl",REF30040,"Fanta regular 33cl",1,0.41,29,1,0.410000,29,11.890000
+"Fanta Regular 1.5l",REF30041,"Fanta regular 1.5l",1,0.96,6,1,0.960000,6,5.760000
+"Pizza quattro formaggi reg",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,22,250,0.002110,5500,11.605000
+"Pizza quattro formaggi reg",REF30002,"Salsa de tomate",4500,3.89,22,80,0.000864,1760,1.521421
+"Pizza quattro formaggi reg",REF30003,"Queso mozzarella",2500,14.45,22,170,0.005780,3740,21.617200
+"Pizza quattro formaggi reg",REF30008,"queso parmesano",2500,18.75,22,150,0.007500,3300,24.750000
+"Pizza quattro formaggi reg",REF30009,"Queso Gorgonzola",3500,27.64,22,150,0.007897,3300,26.060569
+"Pizza quattro formaggi reg",REF30010,"Queso ricotta",1500,3.99,22,150,0.002660,3300,8.778000
+"San Pelligrino 1.5l",REF30045,"San Pelligrino 1.5L",1,0.86,9,1,0.860000,9,7.740000
+"Mariscos de pizza",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,2,300,0.002110,600,1.266000
+"Mariscos de pizza",REF30002,"Salsa de tomate",4500,3.89,2,100,0.000864,200,0.172889
+"Mariscos de pizza",REF30003,"Queso mozzarella",2500,14.45,2,200,0.005780,400,2.312000
+"Mariscos de pizza",REF30014,Camarón,1000,8.98,2,175,0.008980,350,3.143000
+"Mariscos de pizza",REF30015,Atún,2000,7.66,2,175,0.003830,350,1.340500
+"Mariscos de pizza",REF30016,Calamares,2500,28.77,2,175,0.011508,350,4.027800
+"Perrier 33cl",REF30046,"Perrier 33Cl",1,0.36,3,1,0.360000,3,1.080000
+"Pizza Regwaiian Reg",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,1,250,0.002110,250,0.527500
+"Pizza Regwaiian Reg",REF30002,"Salsa de tomate",4500,3.89,1,80,0.000864,80,0.069156
+"Pizza Regwaiian Reg",REF30003,"Queso mozzarella",2500,14.45,1,170,0.005780,170,0.982600
+"Pizza Regwaiian Reg",REF30017,jamón,5000,32.45,1,130,0.006490,130,0.843700
+"Pizza Regwaiian Reg",REF30018,Piña,5000,6.23,1,100,0.001246,100,0.124600
+"Pizza parmigiana grande",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,10,300,0.002110,3000,6.330000
+"Pizza parmigiana grande",REF30002,"Salsa de tomate",4500,3.89,10,100,0.000864,1000,0.864444
+"Pizza parmigiana grande",REF30003,"Queso mozzarella",2500,14.45,10,200,0.005780,2000,11.560000
+"Pizza parmigiana grande",REF30007,Berenjena,1000,1.90,10,150,0.001900,1500,2.850000
+"Pizza parmigiana grande",REF30008,"queso parmesano",2500,18.75,10,200,0.007500,2000,15.000000
+"Sprite Regular 33cl",REF30036,"Sprite regular 33cl",1,0.41,3,1,0.410000,3,1.230000
+"Pizza hawaiiana grande",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,6,300,0.002110,1800,3.798000
+"Pizza hawaiiana grande",REF30002,"Salsa de tomate",4500,3.89,6,100,0.000864,600,0.518666
+"Pizza hawaiiana grande",REF30003,"Queso mozzarella",2500,14.45,6,200,0.005780,1200,6.936000
+"Pizza hawaiiana grande",REF30017,jamón,5000,32.45,6,150,0.006490,900,5.841000
+"Pizza hawaiiana grande",REF30018,Piña,5000,6.23,6,120,0.001246,720,0.897120
+"Pizza Pepperoni Reg",REF30001,"Bola de masa de pizza (paquete 8)",2000,4.22,10,250,0.002110,2500,5.275000
+"Pizza Pepperoni Reg",REF30002,"Salsa de tomate",4500,3.89,10,80,0.000864,800,0.691555
+"Pizza Pepperoni Reg",REF30003,"Queso mozzarella",2500,14.45,10,170,0.005780,1700,9.826000
+"Pizza Pepperoni Reg",REF30013,Pepperoni,2500,24.18,10,200,0.009672,2000,19.344000
+"Sprite Diet 33cl",REF30038,"Dieta de sprite 33cl",1,0.41,1,1,0.410000,1,0.410000
+"Fanta Diet 1.5l",REF30043,"Dieta fanta 1.5l",1,0.96,2,1,0.960000,2,1.920000
+"Coca Cola Diet 1.5l",REF30035,"Dieta de coca cola 1.5l",1,0.96,1,1,0.960000,1,0.960000
